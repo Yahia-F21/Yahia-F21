@@ -96,7 +96,7 @@ Computer Engineering Student
 
 Coming Soon...
 
-⭐ Knight Exchange Solver (A*)
+⭐ Jarvis System 
 
 ⭐ Hotel Reservation System
 
@@ -105,6 +105,17 @@ Coming Soon...
 ⭐ More exciting projects on the way...
 
 ---
+
+# 🤖 Project JARVIS
+
+> *"Every great engineer eventually builds the project they've always wanted."*
+
+I'm currently developing **JARVIS**—my most ambitious project yet.
+
+While I can't reveal everything today, expect an AI-powered system focused on intelligent assistance, automation, and real-world problem solving.
+
+**Stay tuned.** 🚀
+
 
 # 🎯 Current Goals
 
