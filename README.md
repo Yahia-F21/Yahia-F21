@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-Computer Engineering Student @ Ain Shams University 🇪🇬
+Computer Engineering Student 
 </h3>
 
 <p align="center">
