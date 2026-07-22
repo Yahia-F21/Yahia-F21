@@ -14,7 +14,7 @@ Computer Engineering Student
 
 ## 🚀 About Me
 
-🎓 Computer Engineering Student at **Ain Shams University**
+🎓 Computer Engineering Student 
 
 💻 Passionate about building software that solves real-world problems.
 
